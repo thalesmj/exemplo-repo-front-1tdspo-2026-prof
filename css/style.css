@@ -42,11 +42,10 @@ main{
 }
 
 #cabecalho{
-    background-color: rgb(73, 4, 4);
-    color: rgb(155, 26, 26);
+    background-color: #1c2b3c;
 }
 
-#menu ul li{
+#menu ul{
     list-style: none;
 }
 
@@ -54,3 +53,4 @@ main{
     display: inline-block;
     width: 20%;
 }
+
